@@ -1,19 +1,26 @@
 # Express Tutorial - User Password Authentication
+#### A series on Youtube by Dave Gray on Express
 
-### This Tutorial use Bcrypt Package
+<p> Add user password authentication to your Express app. In this tutorial, we will learn how to add user registration and authentication routes. We'll hash and salt passwords user passwords for safe storage, too. <p>
 
-**Description:**
-<p>Add user password authentication to your Node.js & Express app. In this tutorial, you will learn how to add user registration and authentication routes. We'll hash and salt passwords user passwords for safe storage, too.
+### Reference
 
-<ol>
-  <li>Simulating a users database
-  <li>Create the register controller
-  <li>Handle new user request
-  <li>Hash and Salt passwords with bcrypt
-  <li>Create the register route file
-  <li>Add the route to the server
-  <li>Test the register route
-  <li>Create the auth controller
-  <li>Create the auth route file
-  <li>Add the auth route to the server
+🚀 Cookie-Parser: https://www.npmjs.com/package/cookie-parser
+
+🚀 DotEnv: https://www.npmjs.com/package/dotenv
+
+🚀 JsonWebToken: https://www.npmjs.com/package/jsonwebtoken
+
+## Some stuff about this repo
+
+- Simulating a users database
+- Create the register controller
+- Handle new user request
+- Hash and Salt passwords with bcrypt
+- Create the register route file
+- Add the route to the server
+- Test the register route
+- Create the auth controller
+- Create the auth route file
+
 
